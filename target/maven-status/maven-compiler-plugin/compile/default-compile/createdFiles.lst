@@ -1,0 +1,16 @@
+com/mall/api/response/RespMeta.class
+com/mall/domain/service/ProductService.class
+com/mall/api/utils/StringUtil.class
+com/mall/application/MallApplication.class
+com/mall/api/request/ProductRequest.class
+com/mall/infra/persistence/sql/mapper/ProductMapper.class
+com/mall/domain/model/UserModel.class
+com/mall/domain/service/UserService.class
+com/mall/api/resource/UserResource.class
+com/mall/api/resource/ProductResource.class
+com/mall/api/response/Responses.class
+com/mall/infra/persistence/sql/mapper/UserMapper.class
+com/mall/domain/model/ProductModel.class
+com/mall/api/resource/HelloController.class
+com/mall/api/response/Response.class
+com/mall/api/request/UserRequest.class

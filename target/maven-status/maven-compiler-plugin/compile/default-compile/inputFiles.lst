@@ -1,0 +1,16 @@
+/Users/shuyi/mall/src/main/java/com/mall/domain/model/UserModel.java
+/Users/shuyi/mall/src/main/java/com/mall/infra/persistence/sql/mapper/ProductMapper.java
+/Users/shuyi/mall/src/main/java/com/mall/api/request/UserRequest.java
+/Users/shuyi/mall/src/main/java/com/mall/domain/service/ProductService.java
+/Users/shuyi/mall/src/main/java/com/mall/api/resource/UserResource.java
+/Users/shuyi/mall/src/main/java/com/mall/api/resource/ProductResource.java
+/Users/shuyi/mall/src/main/java/com/mall/domain/model/ProductModel.java
+/Users/shuyi/mall/src/main/java/com/mall/api/utils/StringUtil.java
+/Users/shuyi/mall/src/main/java/com/mall/api/request/ProductRequest.java
+/Users/shuyi/mall/src/main/java/com/mall/application/MallApplication.java
+/Users/shuyi/mall/src/main/java/com/mall/domain/service/UserService.java
+/Users/shuyi/mall/src/main/java/com/mall/api/response/Responses.java
+/Users/shuyi/mall/src/main/java/com/mall/api/response/RespMeta.java
+/Users/shuyi/mall/src/main/java/com/mall/api/response/Response.java
+/Users/shuyi/mall/src/main/java/com/mall/infra/persistence/sql/mapper/UserMapper.java
+/Users/shuyi/mall/src/main/java/com/mall/api/resource/HelloController.java
